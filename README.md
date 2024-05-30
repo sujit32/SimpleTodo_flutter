@@ -1,6 +1,7 @@
 # projects
 
-A new Flutter project.
+A simple todo app using flutter.
+
 
 ## Getting Started
 
